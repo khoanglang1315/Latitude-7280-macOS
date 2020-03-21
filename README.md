@@ -14,7 +14,7 @@ This repository contains a sample configuration to run macOS (Currently Catalina
 * sound/mic (earphone supported)
 * network (wired and wireless)
 * bluetooth
-* keyboard (include shortcuts for volume control(Fn + F1/F2/F3) and brightness control(Fn + ↑↓))
+* keyboard (include shortcuts for volume control(Fn + F1/F2/F3)
 * touchpad (one finger and two finger gestures)
 * usb
 * hdmi/type-c(only dp tested)
@@ -24,30 +24,6 @@ This repository contains a sample configuration to run macOS (Currently Catalina
 
 # Untested or not working
 * sd card
-* sleep
-
-# SSDT Hotpatch
-* SSDT-RMCF.aml
-* SSDT-ALC256.aml
-* SSDT-ALS0.aml
-* SSDT-BATT.aml
-* SSDT-BRT6.aml
-* SSDT-DBAT1.aml
-* SSDT-DMAC.aml
-* SSDT-GPRW.aml
-* SSDT-HDEF.aml
-* SSDT-I2C.aml
-* SSDT-LPC.aml
-* SSDT-MCHC.aml
-* SSDT-MEM2.aml
-* SSDT-PMCR.aml
-* SSDT-PNLF.aml
-* SSDT-PTSWAK.aml
-* SSDT-SMBUS.aml
-* SSDT-SMCD.aml
-* SSDT-UPRW.aml
-* SSDT-XHC.aml
-* SSDT-XOSI.aml
 
 # Kexts
 * ACPIBatteryManager.kext
