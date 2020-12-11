@@ -31,7 +31,7 @@ This repository contains a sample configuration to run macOS (Currently Catalina
 * AppleALC.kext
 * AppleBacklightFixup.kext
 * CPUFriend.kext & CPUFriendDataProvider.kext
-* FakeSMC.kext & FakeSMC_*.kext
+* FakeSMC.kext
 * IntelMausiEthernet.kext
 * Lilu.kext
 * USBInjectAll.kext
